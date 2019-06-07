@@ -87,6 +87,6 @@ Automated labels are assigned to pull requests to help us manage the pull reques
 See the [index of our contributor's guide](contributor-guide/contributor-guide-index.md) for all our guidance topics.
 
 
-##QNA
-*Is this a demo for Anusha?
-Yes
+## QNA
+* Is this a demo for Anusha?
+Yes it is a demo
